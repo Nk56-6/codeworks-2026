@@ -16,9 +16,9 @@ questions = [
     },
 
     {
-        "question": "3.What is the element Pb?",
+        "question": "3.What is the element W?",
         "options": ["A. Uranium", "B. Tungsten", "C. Lead", "D. Stronium"],
-        "answer": "C"
+        "answer": "B"
     }
 
 ]
